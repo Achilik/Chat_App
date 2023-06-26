@@ -10,20 +10,6 @@ Some of the standout features of the project are
 2. Users can Join a chat room
 3. Share location
 
-
-## Demonstration
-#### Join Page :
-![rsz_cajoinpage](https://user-images.githubusercontent.com/58518192/72631791-17bb4480-397f-11ea-8643-371b6a847ff9.png)
-
-#### Chat :
-![ca1-i5s2zfhkmp4_P6rQ](https://user-images.githubusercontent.com/58518192/72631756-096d2880-397f-11ea-8080-d4386161b63b.gif)
-
-#### First User :
-![rsz_1st](https://user-images.githubusercontent.com/58518192/72631772-0f630980-397f-11ea-8dc2-552da5ae0076.png)
-
-#### Second User :
-![rsz_2nd](https://user-images.githubusercontent.com/58518192/72631785-1427bd80-397f-11ea-8ba6-b865071c305d.png)
-
 ## Technologies Used :
 <ul>
   <li>HTML5</li>
@@ -47,6 +33,3 @@ Some of the standout features of the project are
 
 And More ! There's always room for improvement!
 
-
-#### Deployed Version
-Feel free to visit 👉  ![https://lakshman-chat-app.herokuapp.com/](https://lakshman-chat-app.herokuapp.com/)
